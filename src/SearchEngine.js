@@ -54,3 +54,12 @@ export default function SearchEngine() {
     return form;
   }
 }
+<small>
+  <a
+    href="https://github.com/shakiratkemi/weather-react"
+    alt="GitHub Link"
+    rel="noopener norefereer"
+  >
+    Coded by Shakirat
+  </a>
+</small>;
